@@ -1,0 +1,26 @@
+{
+  "name": "coding-challenge",
+  "version": "1.0.0",
+  "description": "This repo contains the instructions and the data you need to complete the _9Spokes coding challenge_.  This challenge is not intended to be complex, but it is an opportunity for you to showcase your understanding and applying of good development practices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Bojianye@github.com/Bojianye/coding-challenge.git"
+  },
+  "author": "Robert Bo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bojianye/coding-challenge/issues"
+  },
+  "homepage": "https://github.com/Bojianye/coding-challenge#readme",
+  "dependencies": {
+    "numeral": "^2.0.6"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4"
+  }
+}
