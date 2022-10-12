@@ -13,10 +13,8 @@ import {DataType} from "./dataType";
 
 
 let revenue = 0, expenses = 0, salesDebit = 0
-let assetsDebit = 0
-let assetsCredit = 0
-let liabilityDebit = 0
-let liabilityCredit = 0
+let assetsDebit = 0, assetsCredit = 0
+let liabilityDebit = 0, liabilityCredit = 0
 
 const resultData = data.data as DataType[]
 
